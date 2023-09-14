@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodmonk7&label=Profile%20views&color=0e75b6&style=flat" alt="bloodmonk7" /> </p>
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/bloodmonk7?tab=repositories)!
+- 👨‍💻 All of my projects are available [here](https://github.com/bloodmonk7?tab=repositories)!
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind, Next.js**
 

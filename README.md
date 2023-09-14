@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodmonk7&label=Profile%20views&color=0e75b6&style=flat" alt="bloodmonk7" /> </p>
 
